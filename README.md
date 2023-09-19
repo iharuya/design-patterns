@@ -15,3 +15,7 @@ Oh, what a cunning maestro he was, disguising his programming wizardry under the
 And thus, as I stand here amidst the glow of my computer screen, with a newfound appreciation for the world of design patterns, I beckon you to join me on this journey of discovery. Who knows, maybe by the end of it, you too will be weaving complex, yet harmonious symphonies of code, leaving the realm of "weedy programmers" far, far behind.
 
 So, fasten your seat belts, dear coding adventurers, as we embark on this exhilarating ride through the captivating world of design patterns, guided by none other than the ultimate "false modesty" maestro himself. Buckle up, it's going to be a whirlwind of fun and learning!
+
+
+## Reference
+- https://refactoring.guru/
