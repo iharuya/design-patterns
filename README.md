@@ -16,6 +16,10 @@ And thus, as I stand here amidst the glow of my computer screen, with a newfound
 
 So, fasten your seat belts, dear coding adventurers, as we embark on this exhilarating ride through the captivating world of design patterns, guided by none other than the ultimate "false modesty" maestro himself. Buckle up, it's going to be a whirlwind of fun and learning!
 
+## Develop
+
+- `bun install`
+- `bun run [path to .ts file]`
 
 ## Reference
 - https://refactoring.guru/
